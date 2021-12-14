@@ -1,0 +1,36 @@
+body {
+    margin: 10%;
+    text-align: center;
+    background: linear-gradient(#5e7c17,#df5b1d) ;
+  }
+  
+  h1 {
+    font-size: 80px;
+    color: #d0ff00;
+    font-family: "Lobster", cursive;
+    font-size: 2,5em;
+    text-shadow: 4px 4px 2px rgb(137, 199, 14);
+    font-weight: 100;
+  }
+
+  .espacio {
+    margin: 20% auto;
+  }
+
+  .tecla {
+    outline: none;
+    border: 3px solid #660285;
+    font-size: 5rem;
+    font-family: 'Lobster';
+    line-height: 2;
+    font-weight: 900;
+    color: #001aff;
+    
+    border-radius: 10px;
+    display: inline-block;
+    width: 100px;
+    height: 180px;
+    text-align: center;
+    margin: 8px;
+    background-color: rgba(0, 183, 255, 0.39);
+  }
